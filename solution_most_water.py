@@ -30,6 +30,9 @@ class Solution:
                 r -= 1
         return ret
 
+# 本来非常的 simpel，两个 l r 指针，然后往中间扫...
+# 大概还是没有基础所致
+
 # 150304 EVE
 
 s = Solution()
